@@ -1,0 +1,17 @@
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net6.0\RoomBookingApp.Persistence.deps.json
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net6.0\RoomBookingApp.Persistence.dll
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net6.0\ref\RoomBookingApp.Persistence.dll
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net6.0\RoomBookingApp.Persistence.pdb
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net6.0\RoomBookingApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net6.0\RoomBookingApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net6.0\RoomBookingApp.Persistence.AssemblyInfo.cs
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net6.0\RoomBookingApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net6.0\RoomBookingApp.Persistence.dll
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net6.0\ref\RoomBookingApp.Persistence.dll
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net6.0\RoomBookingApp.Persistence.pdb
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net6.0\RoomBookingApp.Core.dll
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net6.0\RoomBookingApp.Domain.dll
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net6.0\RoomBookingApp.Core.pdb
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net6.0\RoomBookingApp.Domain.pdb
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net6.0\RoomBookingApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net6.0\RoomBookingApp.Persistence.csproj.CopyComplete

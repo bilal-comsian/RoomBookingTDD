@@ -1,0 +1,11 @@
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\bin\Debug\net6.0\RoomBookingApp.Domain.deps.json
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\bin\Debug\net6.0\RoomBookingApp.Domain.dll
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\bin\Debug\net6.0\ref\RoomBookingApp.Domain.dll
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\bin\Debug\net6.0\RoomBookingApp.Domain.pdb
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net6.0\RoomBookingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net6.0\RoomBookingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net6.0\RoomBookingApp.Domain.AssemblyInfo.cs
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net6.0\RoomBookingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net6.0\RoomBookingApp.Domain.dll
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net6.0\ref\RoomBookingApp.Domain.dll
+C:\Users\bah\source\repos\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net6.0\RoomBookingApp.Domain.pdb
